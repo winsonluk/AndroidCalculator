@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SummitCalculator</string>
+    <string name="tip_calc">Tip Calculator</string>
+    <string name="calculator">Calculator</string>
+    <string name="label_bill">Bill Amount</string>
+    <string name="hint_tip">Tip (percent)</string>
+    <string name="calculate">Calculate</string>
+    <string name="label_tip">Tip:</string>
+    <string name="label_percent">Percent Tip:</string>
+    <string name="label_total">Total:</string>
 </resources>
