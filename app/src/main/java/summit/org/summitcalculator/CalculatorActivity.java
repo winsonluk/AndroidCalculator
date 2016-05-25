@@ -17,5 +17,9 @@ public class CalculatorActivity extends AppCompatActivity {
         setContentView(R.layout.activity_calculator);
         getSupportActionBar().setHomeButtonEnabled(true);
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
+
+        //TODO set correct title for action bar
+        //todo grab and set listeners
+        //todo Implement calculator 
     }
 }
